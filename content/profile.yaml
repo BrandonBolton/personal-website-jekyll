@@ -1,0 +1,26 @@
+- profile:
+  initials: BB
+  name: Brandon Bolton
+  profession: Software engineer
+  image: images/profile.jpg
+  location: Kenosha, WI
+  relocation: true
+  company: PepsiCo
+  for_hire: true
+  focus: Learning Kotlin
+  focus_url: https://kotlinlang.org/
+  about: |
+    Hardworking Computer Science student with 4+ years in IT. Strong abilities to adapt to new situations and technologies while working independently or with teams. 
+  skills:
+    - Python
+    - Java
+    - C++
+  tools:
+    - Sublime Text
+    - VSCode
+    - IntelliJ IDEA
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
